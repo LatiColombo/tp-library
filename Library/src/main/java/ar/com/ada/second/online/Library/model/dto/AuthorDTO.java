@@ -1,0 +1,19 @@
+package ar.com.ada.second.online.Library.model.dto;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+import java.io.Serializable;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Setter
+@Getter
+public class AuthorDTO implements Serializable {
+
+
+
+}
